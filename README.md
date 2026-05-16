@@ -27,31 +27,74 @@ Building projects, participating in hackathons, and exploring machine learning a
 
 ## Tech Stack
 
-**Languages**  
-<p>
+<table>
+<tr>
+
+<td valign="middle" width="25%" align="center">
+
+### Languages
+
+<br>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
 </p>
 
-**Frontend**  
-<p>
+<br>
+
+</td>
+
+<td valign="middle" width="25%" align="center">
+
+### Frontend
+
+<br>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-**Backend**  
-<p>
+<br>
+
+</td>
+
+<td valign="middle" width="25%" align="center">
+
+### Backend
+
+<br>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-**AI / ML**  
-<p>
+<br>
+
+</td>
+
+<td valign="top" width="25%" align="center">
+
+### AI / ML
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly" />
 </p>
 
----
+</td>
+
+</tr>
+</table>
+
 
 ## Connect With Me
 
